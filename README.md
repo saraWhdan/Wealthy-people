@@ -4,7 +4,7 @@ A web app to manage a list of people and their wealth. Users can add new people,
 
 
 
-Check out the [live demo](https://your-username.github.io/speak-number-guess/) of this project hosted on GitHub Pages.
+Check out the [live demo](https://sarawhdan.github.io/Wealthy-people/) of this project hosted on GitHub Pages.
 
 
 
