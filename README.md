@@ -27,7 +27,3 @@ The generated people and their wealth are displayed in the main section of the p
 
 To run this application locally, you can clone this repository and open the index.html file in your browser. 
 
-## Credits
-
-This application was built following a tutorial by Brad Traversy on [YouTube](https://www.youtube.com/watch?v=JaMCxVWtW58).
-The random user API used in this application was provided by [RandomUser.me](https://randomuser.me/).
